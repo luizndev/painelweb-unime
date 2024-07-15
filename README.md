@@ -1,2 +1,8 @@
-# painelweb-unime
-Sistema criado em react.js para suprir uma demanda de Painel Web, solicitado pela Unime Anhanguera de Salvador, sistema funciona com aquisição em api retornando na tela o mesmo que passa no telão da faculdade!
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
